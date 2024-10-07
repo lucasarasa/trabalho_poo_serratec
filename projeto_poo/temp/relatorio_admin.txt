@@ -1,0 +1,548 @@
+__________INICIO__________
+17/09/2024 11:55:51
+Nome do Produto: Meu Gato Não é um Chef Por Que Pizza Não é Alimento de Pet
+Descricao do Produto: Entenda por que o Garfield estava errado e como não transformar seu pet em uma bomba de açúcar.
+Autor: Dr. Pet Ponto
+Preco: 29.0
+Duracao: 45
+
+
+__________FIM__________
+
+__________INICIO__________
+17/09/2024 11:56:42
+Nota: 5.0
+Comentario: Adorei o curso, As dicas são praticas e o autor tem um jeito bem engracado de explicar, Meu gato agora esta mais saudavel e eu me sinto mais confiante em cuidar dele
+Produto: 1
+
+
+__________FIM__________
+
+__________INICIO__________
+18/09/2024 14:38:27
+Nome do Produto: Meu Gato Nao e um Chef Por Que Pizza Nao e Alimento de Pet
+Descricao do Produto: Entenda por que o Garfield estava errado e como nao transformar seu pet em uma bomba de acucar
+Autor: Dr. Pet Ponto
+Preco: 29.9
+Duracao: 45
+
+
+Nome do Produto: O Sofa Sobreviveu Tecnicas Ninja para Evitar o Apocalipse Canino
+Descricao do Produto: Estrategias para que seu cachorro nao transforme sua casa em um campo de batalha
+Autor: Cao Master Flex
+Preco: 34.9
+Duracao: 50
+
+
+Nome do Produto: Aquarios sem Drama. Como Manter Seus Peixes Vivos e Nao Fazer Sushi
+Descricao do Produto: Dicas para manter seus peixinhos nadando felizes e longe do seu jantar
+Autor: Marina Piscina
+Preco: 27.9
+Duracao: 40
+
+
+Nome do Produto: Gourmet de Micro-ondas. Elevando o Miojo a Niveis Epicos
+Descricao do Produto: Como transformar aquele macarrao instantaneo em algo digno de uma foto no Instagram
+Autor: Doces e avarias
+Preco: 24.9
+Duracao: 30
+
+
+Nome do Produto: Como Nao Explodir a Cozinha. Cozinhando Arroz sem Acionar os Bombeiros
+Descricao do Produto: Tecnicas infaliveis para evitar desastres culinarios e manter a casa de pe.
+Autor: Cozinheira Sem Medo
+Preco: 26.9
+Duracao: 35
+
+
+Nome do Produto: Fome Desesperadora. Refeicoes de 10 Minutos para Evitar Desmaios
+Descricao do Produto: Receitas relampago para aqueles momentos em que ate o delivery parece demorar uma eternidade
+Autor: Garfo & Faca
+Preco: 22.9
+Duracao: 35
+
+
+Nome do Produto: Visitas em 5 Minutos. Como Fazer Sua Casa Brilhar (Mesmo que So na Superficie)
+Descricao do Produto: Truques para fingir que sua casa sempre foi organizada – pelo menos ate a visita ir embora
+Autor: Mr. Brilho
+Preco: 19.9
+Duracao: 20
+
+
+Nome do Produto: Isso Tinha que Ser Limpo. Lugares que Voce Nunca Soube que Estavam Sujos
+Descricao do Produto: Descubra os cantos escondidos onde a sujeira se esconde e surpreenda-se (ou nao).
+Autor: Detetive da Poeira
+Preco: 21.9
+Duracao: 30
+
+
+Nome do Produto: Manchas que Contam Historias. Como Apagar Lembrancas (e Manchas) de Festas
+Descricao do Produto:    Metodos para remover manchas epicas sem perder muito tempo ou paciencia
+Autor: Super Limpador
+Preco: 25.9
+Duracao: 40
+
+
+Nome do Produto: DIY sem DR. Consertando Torneiras sem Precisar de Terapia de Casal
+Descricao do Produto: Reparos simples para manter a paz em casa e evitar discussoes por conta de goteiras
+Autor: Engenheiro do Amor
+Preco: 28.9
+Duracao: 45
+
+
+Nome do Produto: Lampada Queimada. Como Trocar Sem Virar a Piada do Grupo de Amigos
+Descricao do Produto: Passo a passo para trocar lampadas sem drama e impressionar ate quem acha que voce so queima o arroz.
+Autor: Eletricista Descomplicado
+Preco: 23.9
+Duracao: 30
+
+
+Nome do Produto: Arte na Parede (Sem Derrubar a Casa). Pendure Coisas Sem Causar Desastres
+Descricao do Produto: Tecnicas para pendurar quadros e prateleiras sem transformar a sala num campo de guerra
+Autor: Artista da Parede
+Preco: 26.9
+Duracao: 35
+
+
+__________FIM__________
+
+__________INICIO__________
+18/09/2024 19:56:51
+Nome do Produto: Meu Gato Nao e um Chef Por Que Pizza Nao e Alimento de Pet
+Descricao do Produto: Entenda por que o Garfield estava errado e como nao transformar seu pet em uma bomba de acucar
+Autor: Dr. Pet Ponto
+Preco: 29.9
+Duracao: 45
+
+
+Nome do Produto: O Sofa Sobreviveu Tecnicas Ninja para Evitar o Apocalipse Canino
+Descricao do Produto: Estrategias para que seu cachorro nao transforme sua casa em um campo de batalha
+Autor: Cao Master Flex
+Preco: 34.9
+Duracao: 50
+
+
+Nome do Produto: Aquarios sem Drama. Como Manter Seus Peixes Vivos e Nao Fazer Sushi
+Descricao do Produto: Dicas para manter seus peixinhos nadando felizes e longe do seu jantar
+Autor: Marina Piscina
+Preco: 27.9
+Duracao: 40
+
+
+Nome do Produto: Gourmet de Micro-ondas. Elevando o Miojo a Niveis Epicos
+Descricao do Produto: Como transformar aquele macarrao instantaneo em algo digno de uma foto no Instagram
+Autor: Doces e avarias
+Preco: 24.9
+Duracao: 30
+
+
+Nome do Produto: Como Nao Explodir a Cozinha. Cozinhando Arroz sem Acionar os Bombeiros
+Descricao do Produto: Tecnicas infaliveis para evitar desastres culinarios e manter a casa de pe.
+Autor: Cozinheira Sem Medo
+Preco: 26.9
+Duracao: 35
+
+
+Nome do Produto: Fome Desesperadora. Refeicoes de 10 Minutos para Evitar Desmaios
+Descricao do Produto: Receitas relampago para aqueles momentos em que ate o delivery parece demorar uma eternidade
+Autor: Garfo & Faca
+Preco: 22.9
+Duracao: 35
+
+
+Nome do Produto: Visitas em 5 Minutos. Como Fazer Sua Casa Brilhar (Mesmo que So na Superficie)
+Descricao do Produto: Truques para fingir que sua casa sempre foi organizada – pelo menos ate a visita ir embora
+Autor: Mr. Brilho
+Preco: 19.9
+Duracao: 20
+
+
+Nome do Produto: Isso Tinha que Ser Limpo. Lugares que Voce Nunca Soube que Estavam Sujos
+Descricao do Produto: Descubra os cantos escondidos onde a sujeira se esconde e surpreenda-se (ou nao).
+Autor: Detetive da Poeira
+Preco: 21.9
+Duracao: 30
+
+
+Nome do Produto: Manchas que Contam Historias. Como Apagar Lembrancas (e Manchas) de Festas
+Descricao do Produto:    Metodos para remover manchas epicas sem perder muito tempo ou paciencia
+Autor: Super Limpador
+Preco: 25.9
+Duracao: 40
+
+
+Nome do Produto: DIY sem DR. Consertando Torneiras sem Precisar de Terapia de Casal
+Descricao do Produto: Reparos simples para manter a paz em casa e evitar discussoes por conta de goteiras
+Autor: Engenheiro do Amor
+Preco: 28.9
+Duracao: 45
+
+
+Nome do Produto: Lampada Queimada. Como Trocar Sem Virar a Piada do Grupo de Amigos
+Descricao do Produto: Passo a passo para trocar lampadas sem drama e impressionar ate quem acha que voce so queima o arroz.
+Autor: Eletricista Descomplicado
+Preco: 23.9
+Duracao: 30
+
+
+Nome do Produto: Arte na Parede (Sem Derrubar a Casa). Pendure Coisas Sem Causar Desastres
+Descricao do Produto: Tecnicas para pendurar quadros e prateleiras sem transformar a sala num campo de guerra
+Autor: Artista da Parede
+Preco: 26.9
+Duracao: 35
+
+
+__________FIM__________
+
+__________INICIO__________
+18/09/2024 19:58:00
+Nome do Produto: Meu Gato Nao e um Chef Por Que Pizza Nao e Alimento de Pet
+Descricao do Produto: Entenda por que o Garfield estava errado e como nao transformar seu pet em uma bomba de acucar
+Autor: Dr. Pet Ponto
+Preco: 29.9
+Duracao: 45
+
+
+Nome do Produto: O Sofa Sobreviveu Tecnicas Ninja para Evitar o Apocalipse Canino
+Descricao do Produto: Estrategias para que seu cachorro nao transforme sua casa em um campo de batalha
+Autor: Cao Master Flex
+Preco: 34.9
+Duracao: 50
+
+
+Nome do Produto: Aquarios sem Drama. Como Manter Seus Peixes Vivos e Nao Fazer Sushi
+Descricao do Produto: Dicas para manter seus peixinhos nadando felizes e longe do seu jantar
+Autor: Marina Piscina
+Preco: 27.9
+Duracao: 40
+
+
+Nome do Produto: Gourmet de Micro-ondas. Elevando o Miojo a Niveis Epicos
+Descricao do Produto: Como transformar aquele macarrao instantaneo em algo digno de uma foto no Instagram
+Autor: Doces e avarias
+Preco: 24.9
+Duracao: 30
+
+
+Nome do Produto: Como Nao Explodir a Cozinha. Cozinhando Arroz sem Acionar os Bombeiros
+Descricao do Produto: Tecnicas infaliveis para evitar desastres culinarios e manter a casa de pe.
+Autor: Cozinheira Sem Medo
+Preco: 26.9
+Duracao: 35
+
+
+Nome do Produto: Fome Desesperadora. Refeicoes de 10 Minutos para Evitar Desmaios
+Descricao do Produto: Receitas relampago para aqueles momentos em que ate o delivery parece demorar uma eternidade
+Autor: Garfo & Faca
+Preco: 22.9
+Duracao: 35
+
+
+Nome do Produto: Visitas em 5 Minutos. Como Fazer Sua Casa Brilhar (Mesmo que So na Superficie)
+Descricao do Produto: Truques para fingir que sua casa sempre foi organizada – pelo menos ate a visita ir embora
+Autor: Mr. Brilho
+Preco: 19.9
+Duracao: 20
+
+
+Nome do Produto: Isso Tinha que Ser Limpo. Lugares que Voce Nunca Soube que Estavam Sujos
+Descricao do Produto: Descubra os cantos escondidos onde a sujeira se esconde e surpreenda-se (ou nao).
+Autor: Detetive da Poeira
+Preco: 21.9
+Duracao: 30
+
+
+Nome do Produto: Manchas que Contam Historias. Como Apagar Lembrancas (e Manchas) de Festas
+Descricao do Produto:    Metodos para remover manchas epicas sem perder muito tempo ou paciencia
+Autor: Super Limpador
+Preco: 25.9
+Duracao: 40
+
+
+Nome do Produto: DIY sem DR. Consertando Torneiras sem Precisar de Terapia de Casal
+Descricao do Produto: Reparos simples para manter a paz em casa e evitar discussoes por conta de goteiras
+Autor: Engenheiro do Amor
+Preco: 28.9
+Duracao: 45
+
+
+Nome do Produto: Lampada Queimada. Como Trocar Sem Virar a Piada do Grupo de Amigos
+Descricao do Produto: Passo a passo para trocar lampadas sem drama e impressionar ate quem acha que voce so queima o arroz.
+Autor: Eletricista Descomplicado
+Preco: 23.9
+Duracao: 30
+
+
+Nome do Produto: Arte na Parede (Sem Derrubar a Casa). Pendure Coisas Sem Causar Desastres
+Descricao do Produto: Tecnicas para pendurar quadros e prateleiras sem transformar a sala num campo de guerra
+Autor: Artista da Parede
+Preco: 26.9
+Duracao: 35
+
+
+__________FIM__________
+
+__________INICIO__________
+18/09/2024 19:58:50
+Nome do Produto: Meu Gato Nao e um Chef Por Que Pizza Nao e Alimento de Pet
+Descricao do Produto: Entenda por que o Garfield estava errado e como nao transformar seu pet em uma bomba de acucar
+Autor: Dr. Pet Ponto
+Preco: 29.9
+Duracao: 45
+
+
+Nome do Produto: O Sofa Sobreviveu Tecnicas Ninja para Evitar o Apocalipse Canino
+Descricao do Produto: Estrategias para que seu cachorro nao transforme sua casa em um campo de batalha
+Autor: Cao Master Flex
+Preco: 34.9
+Duracao: 50
+
+
+Nome do Produto: Aquarios sem Drama. Como Manter Seus Peixes Vivos e Nao Fazer Sushi
+Descricao do Produto: Dicas para manter seus peixinhos nadando felizes e longe do seu jantar
+Autor: Marina Piscina
+Preco: 27.9
+Duracao: 40
+
+
+Nome do Produto: Gourmet de Micro-ondas. Elevando o Miojo a Niveis Epicos
+Descricao do Produto: Como transformar aquele macarrao instantaneo em algo digno de uma foto no Instagram
+Autor: Doces e avarias
+Preco: 24.9
+Duracao: 30
+
+
+Nome do Produto: Como Nao Explodir a Cozinha. Cozinhando Arroz sem Acionar os Bombeiros
+Descricao do Produto: Tecnicas infaliveis para evitar desastres culinarios e manter a casa de pe.
+Autor: Cozinheira Sem Medo
+Preco: 26.9
+Duracao: 35
+
+
+Nome do Produto: Fome Desesperadora. Refeicoes de 10 Minutos para Evitar Desmaios
+Descricao do Produto: Receitas relampago para aqueles momentos em que ate o delivery parece demorar uma eternidade
+Autor: Garfo & Faca
+Preco: 22.9
+Duracao: 35
+
+
+Nome do Produto: Visitas em 5 Minutos. Como Fazer Sua Casa Brilhar (Mesmo que So na Superficie)
+Descricao do Produto: Truques para fingir que sua casa sempre foi organizada – pelo menos ate a visita ir embora
+Autor: Mr. Brilho
+Preco: 19.9
+Duracao: 20
+
+
+Nome do Produto: Isso Tinha que Ser Limpo. Lugares que Voce Nunca Soube que Estavam Sujos
+Descricao do Produto: Descubra os cantos escondidos onde a sujeira se esconde e surpreenda-se (ou nao).
+Autor: Detetive da Poeira
+Preco: 21.9
+Duracao: 30
+
+
+Nome do Produto: Manchas que Contam Historias. Como Apagar Lembrancas (e Manchas) de Festas
+Descricao do Produto:    Metodos para remover manchas epicas sem perder muito tempo ou paciencia
+Autor: Super Limpador
+Preco: 25.9
+Duracao: 40
+
+
+Nome do Produto: DIY sem DR. Consertando Torneiras sem Precisar de Terapia de Casal
+Descricao do Produto: Reparos simples para manter a paz em casa e evitar discussoes por conta de goteiras
+Autor: Engenheiro do Amor
+Preco: 28.9
+Duracao: 45
+
+
+Nome do Produto: Lampada Queimada. Como Trocar Sem Virar a Piada do Grupo de Amigos
+Descricao do Produto: Passo a passo para trocar lampadas sem drama e impressionar ate quem acha que voce so queima o arroz.
+Autor: Eletricista Descomplicado
+Preco: 23.9
+Duracao: 30
+
+
+Nome do Produto: Arte na Parede (Sem Derrubar a Casa). Pendure Coisas Sem Causar Desastres
+Descricao do Produto: Tecnicas para pendurar quadros e prateleiras sem transformar a sala num campo de guerra
+Autor: Artista da Parede
+Preco: 26.9
+Duracao: 35
+
+
+__________FIM__________
+
+__________INICIO__________
+18/09/2024 19:58:54
+Nome do Produto: Meu Gato Nao e um Chef Por Que Pizza Nao e Alimento de Pet
+Descricao do Produto: Entenda por que o Garfield estava errado e como nao transformar seu pet em uma bomba de acucar
+Autor: Dr. Pet Ponto
+Preco: 29.9
+Duracao: 45
+
+
+Nome do Produto: O Sofa Sobreviveu Tecnicas Ninja para Evitar o Apocalipse Canino
+Descricao do Produto: Estrategias para que seu cachorro nao transforme sua casa em um campo de batalha
+Autor: Cao Master Flex
+Preco: 34.9
+Duracao: 50
+
+
+Nome do Produto: Aquarios sem Drama. Como Manter Seus Peixes Vivos e Nao Fazer Sushi
+Descricao do Produto: Dicas para manter seus peixinhos nadando felizes e longe do seu jantar
+Autor: Marina Piscina
+Preco: 27.9
+Duracao: 40
+
+
+Nome do Produto: Gourmet de Micro-ondas. Elevando o Miojo a Niveis Epicos
+Descricao do Produto: Como transformar aquele macarrao instantaneo em algo digno de uma foto no Instagram
+Autor: Doces e avarias
+Preco: 24.9
+Duracao: 30
+
+
+Nome do Produto: Como Nao Explodir a Cozinha. Cozinhando Arroz sem Acionar os Bombeiros
+Descricao do Produto: Tecnicas infaliveis para evitar desastres culinarios e manter a casa de pe.
+Autor: Cozinheira Sem Medo
+Preco: 26.9
+Duracao: 35
+
+
+Nome do Produto: Fome Desesperadora. Refeicoes de 10 Minutos para Evitar Desmaios
+Descricao do Produto: Receitas relampago para aqueles momentos em que ate o delivery parece demorar uma eternidade
+Autor: Garfo & Faca
+Preco: 22.9
+Duracao: 35
+
+
+Nome do Produto: Visitas em 5 Minutos. Como Fazer Sua Casa Brilhar (Mesmo que So na Superficie)
+Descricao do Produto: Truques para fingir que sua casa sempre foi organizada – pelo menos ate a visita ir embora
+Autor: Mr. Brilho
+Preco: 19.9
+Duracao: 20
+
+
+Nome do Produto: Isso Tinha que Ser Limpo. Lugares que Voce Nunca Soube que Estavam Sujos
+Descricao do Produto: Descubra os cantos escondidos onde a sujeira se esconde e surpreenda-se (ou nao).
+Autor: Detetive da Poeira
+Preco: 21.9
+Duracao: 30
+
+
+Nome do Produto: Manchas que Contam Historias. Como Apagar Lembrancas (e Manchas) de Festas
+Descricao do Produto:    Metodos para remover manchas epicas sem perder muito tempo ou paciencia
+Autor: Super Limpador
+Preco: 25.9
+Duracao: 40
+
+
+Nome do Produto: DIY sem DR. Consertando Torneiras sem Precisar de Terapia de Casal
+Descricao do Produto: Reparos simples para manter a paz em casa e evitar discussoes por conta de goteiras
+Autor: Engenheiro do Amor
+Preco: 28.9
+Duracao: 45
+
+
+Nome do Produto: Lampada Queimada. Como Trocar Sem Virar a Piada do Grupo de Amigos
+Descricao do Produto: Passo a passo para trocar lampadas sem drama e impressionar ate quem acha que voce so queima o arroz.
+Autor: Eletricista Descomplicado
+Preco: 23.9
+Duracao: 30
+
+
+Nome do Produto: Arte na Parede (Sem Derrubar a Casa). Pendure Coisas Sem Causar Desastres
+Descricao do Produto: Tecnicas para pendurar quadros e prateleiras sem transformar a sala num campo de guerra
+Autor: Artista da Parede
+Preco: 26.9
+Duracao: 35
+
+
+__________FIM__________
+
+__________INICIO__________
+18/09/2024 20:13:18
+Nome do Produto: Meu Gato Nao e um Chef Por Que Pizza Nao e Alimento de Pet
+Descricao do Produto: Entenda por que o Garfield estava errado e como nao transformar seu pet em uma bomba de acucar
+Autor: Dr. Pet Ponto
+Preco: 29.9
+Duracao: 45
+
+
+Nome do Produto: O Sofa Sobreviveu Tecnicas Ninja para Evitar o Apocalipse Canino
+Descricao do Produto: Estrategias para que seu cachorro nao transforme sua casa em um campo de batalha
+Autor: Cao Master Flex
+Preco: 34.9
+Duracao: 50
+
+
+Nome do Produto: Aquarios sem Drama. Como Manter Seus Peixes Vivos e Nao Fazer Sushi
+Descricao do Produto: Dicas para manter seus peixinhos nadando felizes e longe do seu jantar
+Autor: Marina Piscina
+Preco: 27.9
+Duracao: 40
+
+
+Nome do Produto: Gourmet de Micro-ondas. Elevando o Miojo a Niveis Epicos
+Descricao do Produto: Como transformar aquele macarrao instantaneo em algo digno de uma foto no Instagram
+Autor: Doces e avarias
+Preco: 24.9
+Duracao: 30
+
+
+Nome do Produto: Como Nao Explodir a Cozinha. Cozinhando Arroz sem Acionar os Bombeiros
+Descricao do Produto: Tecnicas infaliveis para evitar desastres culinarios e manter a casa de pe.
+Autor: Cozinheira Sem Medo
+Preco: 26.9
+Duracao: 35
+
+
+Nome do Produto: Fome Desesperadora. Refeicoes de 10 Minutos para Evitar Desmaios
+Descricao do Produto: Receitas relampago para aqueles momentos em que ate o delivery parece demorar uma eternidade
+Autor: Garfo & Faca
+Preco: 22.9
+Duracao: 35
+
+
+Nome do Produto: Visitas em 5 Minutos. Como Fazer Sua Casa Brilhar (Mesmo que So na Superficie)
+Descricao do Produto: Truques para fingir que sua casa sempre foi organizada – pelo menos ate a visita ir embora
+Autor: Mr. Brilho
+Preco: 19.9
+Duracao: 20
+
+
+Nome do Produto: Isso Tinha que Ser Limpo. Lugares que Voce Nunca Soube que Estavam Sujos
+Descricao do Produto: Descubra os cantos escondidos onde a sujeira se esconde e surpreenda-se (ou nao).
+Autor: Detetive da Poeira
+Preco: 21.9
+Duracao: 30
+
+
+Nome do Produto: Manchas que Contam Historias. Como Apagar Lembrancas (e Manchas) de Festas
+Descricao do Produto:    Metodos para remover manchas epicas sem perder muito tempo ou paciencia
+Autor: Super Limpador
+Preco: 25.9
+Duracao: 40
+
+
+Nome do Produto: DIY sem DR. Consertando Torneiras sem Precisar de Terapia de Casal
+Descricao do Produto: Reparos simples para manter a paz em casa e evitar discussoes por conta de goteiras
+Autor: Engenheiro do Amor
+Preco: 28.9
+Duracao: 45
+
+
+Nome do Produto: Lampada Queimada. Como Trocar Sem Virar a Piada do Grupo de Amigos
+Descricao do Produto: Passo a passo para trocar lampadas sem drama e impressionar ate quem acha que voce so queima o arroz.
+Autor: Eletricista Descomplicado
+Preco: 23.9
+Duracao: 30
+
+
+Nome do Produto: Arte na Parede (Sem Derrubar a Casa). Pendure Coisas Sem Causar Desastres
+Descricao do Produto: Tecnicas para pendurar quadros e prateleiras sem transformar a sala num campo de guerra
+Autor: Artista da Parede
+Preco: 26.9
+Duracao: 35
+
+
+__________FIM__________
+

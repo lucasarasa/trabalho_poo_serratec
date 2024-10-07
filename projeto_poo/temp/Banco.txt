@@ -1,0 +1,64 @@
+Cliente;1;Lucas Cardinot;lucascardinot@gmail.com;coxinha123;21901122334;11111111111
+Cliente;2;Leticia;leticia@gmail.com;caipirinha123;21912233445;22222222222
+Cliente;3;Lucas Sarasa;lucassarasa@gmail.com;churrasquinho123;21923344556;33333333333
+Cliente;4;LuizVinicius;LuizVinicius@gmail.com;vinicin123;21989975462;88888888888
+Administrador;1;Lorrayne;lorrayne@gmail.com;gatinho123;21934455667;true
+Administrador;2;Luan;luan@gmail.com;cervejinha123;21945566778;true
+Administrador;3;Lucas Schumacker;Schumacker@gmail.com;ferrari123;21956677889;true
+CategoriaProdutos;1;Cuidando do Seu Pet Sem Matar Ele; Como cuidar do seu melhor amigo: Dicas infalíveis para cuidar melhor do seu pet
+CategoriaProdutos;2;Culinaria para Sobreviver; Seja seu próprio MasterChef: E-books que irão revolucionar a sua experiência na cozinha
+CategoriaProdutos;3;Limpando Sua Bagunça; Casa Brilhante: Transforme a limpeza da sua casa.
+CategoriaProdutos;4;Manutenção Básica para a Casa Não Cair; Assuma a Pereirão que existe dentro de você: Descomplique as manutenções domesticas e ganhe sua liberdade de verdade!
+Produto;1;1;Meu Gato Nao e um Chef Por Que Pizza Nao e Alimento de Pet;Entenda por que o Garfield estava errado e como nao transformar seu pet em uma bomba de acucar;Dr. Pet Ponto;29.9;45
+Produto;2;1;O Sofa Sobreviveu Tecnicas Ninja para Evitar o Apocalipse Canino;Estrategias para que seu cachorro nao transforme sua casa em um campo de batalha;Cao Master Flex;34.90;50
+Produto;3;1;Aquarios sem Drama. Como Manter Seus Peixes Vivos e Nao Fazer Sushi;Dicas para manter seus peixinhos nadando felizes e longe do seu jantar;Marina Piscina;27.90;40
+Produto;4;2;Gourmet de Micro-ondas. Elevando o Miojo a Niveis Epicos;Como transformar aquele macarrao instantaneo em algo digno de uma foto no Instagram;Doces e avarias;24.90;30
+Produto;5;2;Como Nao Explodir a Cozinha. Cozinhando Arroz sem Acionar os Bombeiros;Tecnicas infaliveis para evitar desastres culinarios e manter a casa de pe.;Cozinheira Sem Medo;26.90;35
+Produto;6;2;Fome Desesperadora. Refeicoes de 10 Minutos para Evitar Desmaios;Receitas relampago para aqueles momentos em que ate o delivery parece demorar uma eternidade;Garfo & Faca;22.90;35
+Produto;7;3;Visitas em 5 Minutos. Como Fazer Sua Casa Brilhar (Mesmo que So na Superficie);Truques para fingir que sua casa sempre foi organizada – pelo menos ate a visita ir embora;Mr. Brilho;19.90;20
+Produto;8;3;Isso Tinha que Ser Limpo. Lugares que Voce Nunca Soube que Estavam Sujos;Descubra os cantos escondidos onde a sujeira se esconde e surpreenda-se (ou nao).;Detetive da Poeira;21.90;30
+Produto;9;3;Manchas que Contam Historias. Como Apagar Lembrancas (e Manchas) de Festas;   Metodos para remover manchas epicas sem perder muito tempo ou paciencia;Super Limpador;25.90;40
+Produto;10;4;DIY sem DR. Consertando Torneiras sem Precisar de Terapia de Casal;Reparos simples para manter a paz em casa e evitar discussoes por conta de goteiras;Engenheiro do Amor;28.90;45
+Produto;11;4;Lampada Queimada. Como Trocar Sem Virar a Piada do Grupo de Amigos;Passo a passo para trocar lampadas sem drama e impressionar ate quem acha que voce so queima o arroz.;Eletricista Descomplicado;23.90;30
+Produto;12;4;Arte na Parede (Sem Derrubar a Casa). Pendure Coisas Sem Causar Desastres;Tecnicas para pendurar quadros e prateleiras sem transformar a sala num campo de guerra;Artista da Parede;26.90;35
+Avaliacao;1;1;5;Adorei o curso, As dicas são praticas e o autor tem um jeito bem engracado de explicar, Meu gato agora esta mais saudavel e eu me sinto mais confiante em cuidar dele
+Avaliacao;2;2;2.8;Finalmente aprendi a cozinhar arroz sem fazer um desastre. As instrucoes sao claras e a parte sobre como evitar o queimado foi um verdadeiro salva-vidas
+Avaliacao;3;3;3.5;Esse curso abriu meus olhos para areas da casa que eu nunca tinha notado. A limpeza dessas partes fez uma grande diferenca no geral. Recomendo para quem quer um ambiente realmente limpo!
+Avaliacao;4;4;4.4;As instrucoes sao simples e diretas. Agora eu posso trocar as lampadas sozinha sem precisar pedir ajuda a cada vez. Otimo curso para quem quer ser mais independente! 
+Suporte;1;1;Curso muito bom!
+Suporte;2;2;Curso mais ou menos, não gostei muito!
+Suporte;3;3;Poderia ser melhor apresentado!
+Suporte;4;4;Esse curso me fez aprender muito!
+Carrinho;1;1
+Carrinho;2;2
+Carrinho;3;3
+Carrinho;4;4
+CarrinhoProduto;1;1;2
+CarrinhoProduto;2;2;4
+CarrinhoProduto;3;3;1
+CarrinhoProduto;4;4;3
+HistoricoCompra;1;2;2;1;1
+HistoricoCompra;2;4;4;2;2
+HistoricoCompra;3;1;1;3;3
+HistoricoCompra;4;3;3;4;4
+Pagamento;1;1;1;29.9;3
+Pagamento;2;2;2;34.90;3
+Pagamento;3;3;3;27.90;3
+Pagamento;4;4;4;24.90;3
+Debito;1;1;1;29;3;5555444433332222
+Credito;1;1;1;29;3;6666555544443333
+Pix;1;1;1;29;3;984521615
+Boleto;1;1;1;29;3;651655656000029
+Cliente;13;Joaozinho;joaoo@email.com;joao12354;9999999999;12345678901
+Cliente;14;Maria;maria@email.com;maria123;8888888888;12345678907
+Cliente;15;Marcos;marcos@gmail.com;123321;21990095555;25369874102
+Cliente;16;Junin;juni@email.com;junin123;9999999999;12345678901
+Cliente;17;asikdsd;asdas@mlas.com;asds;01111111111;21345678906
+Cliente;18;askmd;asmdskadm@email.com;masdsmmddm;00000000000;12345678905
+Cliente;19;amskdkmsk;asmd@email.com;sakdm12;99999999999;12345678901
+Cliente;20;asd;asd@emai.com;asmd12;8998888888;12345678905
+Cliente;21;junior;junior@email.com;junior123;99999999999;12345678901
+Cliente;22;Lucas;lucas@email.com;luc123;77777777777;12345678901
+Cliente;23;luc;luc@email.com;luc123;99999999999;12345678904
+Cliente;24;Luca;luca@email.com;luca123;9999999999;12345678901
+Cliente;25;luuuucas;lucas@email2.com;luc123;9999999999;12345678901
